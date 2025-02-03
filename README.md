@@ -1,4 +1,4 @@
-# Medivison
+# MediVison
 Medivision Project Repository 
 # Features
 1. AI-Driven Tumor Detection and Segmentation
